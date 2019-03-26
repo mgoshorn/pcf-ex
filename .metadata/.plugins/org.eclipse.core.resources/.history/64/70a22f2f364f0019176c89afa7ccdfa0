@@ -1,0 +1,9 @@
+applications:
+- name: author-service
+  path: ../pcf-author-service
+- name: book-service
+  path: ../pcf-book-service
+- name: gateway-service
+  path: ../pcf-gateway-service
+  
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git

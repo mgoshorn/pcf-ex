@@ -1,0 +1,7 @@
+com\revature\repositories\BookRepository.class
+com\revature\dtos\AuthorDTO.class
+com\revature\models\Book.class
+com\revature\feigns\AuthorFeign.class
+com\revature\controllers\BookController.class
+com\revature\services\BookService.class
+com\revature\Application.class

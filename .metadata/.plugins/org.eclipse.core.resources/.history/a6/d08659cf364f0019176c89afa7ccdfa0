@@ -1,0 +1,17 @@
+applications:
+- name: author-service
+  path: ../pcf-author-service
+  memory: 512M
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+- name: book-service
+  path: ../pcf-book-service
+  memory: 512M
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+- name: gateway-service
+  path: ../pcf-gateway-service
+  memory: 512M
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+  

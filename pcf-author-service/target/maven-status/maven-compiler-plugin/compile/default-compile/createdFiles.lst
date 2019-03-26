@@ -1,0 +1,5 @@
+com\revature\repositories\AuthorRepository.class
+com\revature\controllers\AuthorController.class
+com\revature\models\Author.class
+com\revature\services\AuthorService.class
+com\revature\Application.class

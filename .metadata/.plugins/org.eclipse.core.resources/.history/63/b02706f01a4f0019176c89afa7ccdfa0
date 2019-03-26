@@ -1,0 +1,73 @@
+package com.revature.models;
+
+import java.time.LocalDate;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Transient;
+
+import org.springframework.format.annotation.DateTimeFormat;
+
+import com.revature.dtos.AuthorDTO;
+
+@Entity
+public class Book {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+
+	private String name;
+
+	@DateTimeFormat
+	private LocalDate releaseDate;
+
+	private int authorId;
+	
+	@Transient
+	private AuthorDTO author;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public LocalDate getReleaseDate() {
+		return releaseDate;
+	}
+
+	public void setReleaseDate(LocalDate releaseDate) {
+		this.releaseDate = releaseDate;
+	}
+
+	public int getAuthorId() {
+		return authorId;
+	}
+
+	public void setAuthorId(int authorId) {
+		this.authorId = authorId;
+	}
+
+	public AuthorDTO getAuthor() {
+		return author;
+	}
+
+	public void setAuthor(AuthorDTO author) {
+		this.author = author;
+	}
+	
+	
+}

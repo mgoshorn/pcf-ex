@@ -1,0 +1,15 @@
+package com.revature.services;
+
+import javax.inject.Inject;
+
+import org.springframework.stereotype.Service;
+
+import com.revature.repositories.AuthorRepository;
+
+@Service
+public class AuthorService {
+
+	@Inject
+	AuthorRepository authorRepository;
+	
+}

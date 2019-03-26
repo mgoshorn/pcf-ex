@@ -1,0 +1,18 @@
+---
+defaults: &default
+  memory: 512M
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+  
+
+
+applications:
+- name: author-service
+  path: ../pcf-author-service
+  <<: *default
+- name: book-service
+  path: ../pcf-book-service
+  <<: *default
+- name: gateway-service
+  path: ../pcf-gateway-service
+  <<: *default  

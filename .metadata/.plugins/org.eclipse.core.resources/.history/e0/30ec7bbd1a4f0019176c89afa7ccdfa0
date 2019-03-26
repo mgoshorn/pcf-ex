@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: author-service
+  datasource:
+    username: hibernate_role
+    password: top-secret
+    url: jdbc:postgresql://localhost:5432/hibernate
+    hikari:
+      # Database connection pool size
+      maximum-pool-size: 4
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    properties:
+      hibernate:
+        show_sql: false
+        use_sql_comments: false
+        temp:
+          use_jdbc_metadata_default: false
+  
+server:
+  port: 8020
