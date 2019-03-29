@@ -12,3 +12,11 @@ zuul:  routes:
     books:
       path: /books/**
       service-id: book-service
+      
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        
+        

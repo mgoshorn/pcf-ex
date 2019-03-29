@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: gateway-service
+  cloud:
+    services:
+      registrationMethod: route
+    
+zuul:  routes:
+    authors:
+      path: /authors/**
+      service-id: author-service
+    books:
+      path: /books/**
+      service-id: book-service
+      
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

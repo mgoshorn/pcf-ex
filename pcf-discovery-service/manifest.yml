@@ -12,13 +12,13 @@ applications:
   path: ../pcf-author-service/target/pcf-author-service-0.0.1-SNAPSHOT.jar
   <<: *default
   services:
-    - sql-server
+    - 1922-pg
     - 1922-service-registry
 - name: 1922-book-service
   path: ../pcf-book-service/target/pcf-book-service-0.0.1-SNAPSHOT.jar
   <<: *default
   services:
-    - sql-server
+    - 1922-book-pg
     - 1922-service-registry
 - name: 1922-gateway-service
   path: ../pcf-gateway-service/target/pcf-gateway-service-0.0.1-SNAPSHOT.jar

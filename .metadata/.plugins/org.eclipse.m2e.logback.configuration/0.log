@@ -3169,3 +3169,928 @@ java.io.FileNotFoundException: C:\Users\mitch\.m2\repository\io\pivotal\spring\c
 2019-03-26 15:47:27,031 [Worker-124: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-dependencies/[SCS]/spring-cloud-services-dependencies-[SCS].pom
 2019-03-26 15:47:27,085 [Worker-124: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/pivotal/spring/cloud/spring-cloud-services-dependencies/[SCS]/spring-cloud-services-dependencies-[SCS].pom
 2019-03-26 15:47:27,440 [Worker-124: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-27 10:33:35,690 [Worker-165: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-27 10:34:40,371 [Worker-166: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-27 10:34:40,563 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE.pom
+2019-03-27 10:34:40,759 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE.pom
+2019-03-27 10:34:40,919 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-dependencies-parent/2.1.2.RELEASE/spring-cloud-services-dependencies-parent-2.1.2.RELEASE.pom
+2019-03-27 10:34:40,989 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-dependencies-parent/2.1.2.RELEASE/spring-cloud-services-dependencies-parent-2.1.2.RELEASE.pom
+2019-03-27 10:34:41,040 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR1/spring-cloud-dependencies-Greenwich.SR1.pom
+2019-03-27 10:34:41,118 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR1/spring-cloud-dependencies-Greenwich.SR1.pom
+2019-03-27 10:34:41,172 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.3.RELEASE/spring-cloud-dependencies-parent-2.1.3.RELEASE.pom
+2019-03-27 10:34:41,225 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.3.RELEASE/spring-cloud-dependencies-parent-2.1.3.RELEASE.pom
+2019-03-27 10:34:41,274 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons-dependencies/2.1.1.RELEASE/spring-cloud-commons-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:41,326 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons-dependencies/2.1.1.RELEASE/spring-cloud-commons-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:41,378 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-dependencies/2.1.1.RELEASE/spring-cloud-netflix-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:41,444 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-dependencies/2.1.1.RELEASE/spring-cloud-netflix-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:41,494 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-stream-dependencies/Fishtown.SR2/spring-cloud-stream-dependencies-Fishtown.SR2.pom
+2019-03-27 10:34:41,549 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-stream-dependencies/Fishtown.SR2/spring-cloud-stream-dependencies-Fishtown.SR2.pom
+2019-03-27 10:34:41,600 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-task-dependencies/2.1.1.RELEASE/spring-cloud-task-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:41,643 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-task-dependencies/2.1.1.RELEASE/spring-cloud-task-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:41,692 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-config-dependencies/2.1.1.RELEASE/spring-cloud-config-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:41,743 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-config-dependencies/2.1.1.RELEASE/spring-cloud-config-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:41,797 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-function-dependencies/2.0.1.RELEASE/spring-cloud-function-dependencies-2.0.1.RELEASE.pom
+2019-03-27 10:34:41,851 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-function-dependencies/2.0.1.RELEASE/spring-cloud-function-dependencies-2.0.1.RELEASE.pom
+2019-03-27 10:34:41,898 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.2.RELEASE/spring-cloud-dependencies-parent-2.1.2.RELEASE.pom
+2019-03-27 10:34:41,948 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.2.RELEASE/spring-cloud-dependencies-parent-2.1.2.RELEASE.pom
+2019-03-27 10:34:41,998 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-gateway-dependencies/2.1.1.RELEASE/spring-cloud-gateway-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,048 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-gateway-dependencies/2.1.1.RELEASE/spring-cloud-gateway-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,091 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-consul-dependencies/2.1.1.RELEASE/spring-cloud-consul-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,141 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-consul-dependencies/2.1.1.RELEASE/spring-cloud-consul-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,187 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.1.1.RELEASE/spring-cloud-sleuth-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,237 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.1.1.RELEASE/spring-cloud-sleuth-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,288 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-vault-dependencies/2.1.1.RELEASE/spring-cloud-vault-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,340 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-vault-dependencies/2.1.1.RELEASE/spring-cloud-vault-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,401 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.1.1.RELEASE/spring-cloud-zookeeper-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,452 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.1.1.RELEASE/spring-cloud-zookeeper-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,494 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-security-dependencies/2.1.2.RELEASE/spring-cloud-security-dependencies-2.1.2.RELEASE.pom
+2019-03-27 10:34:42,541 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-security-dependencies/2.1.2.RELEASE/spring-cloud-security-dependencies-2.1.2.RELEASE.pom
+2019-03-27 10:34:42,591 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.1.1.RELEASE/spring-cloud-cloudfoundry-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,642 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.1.1.RELEASE/spring-cloud-cloudfoundry-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,691 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-bus-dependencies/2.1.1.RELEASE/spring-cloud-bus-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,738 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-bus-dependencies/2.1.1.RELEASE/spring-cloud-bus-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,786 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-contract-dependencies/2.1.1.RELEASE/spring-cloud-contract-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,832 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-contract-dependencies/2.1.1.RELEASE/spring-cloud-contract-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,876 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-aws-dependencies/2.1.1.RELEASE/spring-cloud-aws-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:42,930 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-aws-dependencies/2.1.1.RELEASE/spring-cloud-aws-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:43,003 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.1.1.RELEASE/spring-cloud-openfeign-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:43,045 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.1.1.RELEASE/spring-cloud-openfeign-dependencies-2.1.1.RELEASE.pom
+2019-03-27 10:34:43,090 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.0.1.RELEASE/spring-cloud-kubernetes-dependencies-1.0.1.RELEASE.pom
+2019-03-27 10:34:43,135 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.0.1.RELEASE/spring-cloud-kubernetes-dependencies-1.0.1.RELEASE.pom
+2019-03-27 10:34:43,219 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/fabric8/kubernetes-client-bom/4.1.0/kubernetes-client-bom-4.1.0.pom
+2019-03-27 10:34:43,260 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/fabric8/kubernetes-client-bom/4.1.0/kubernetes-client-bom-4.1.0.pom
+2019-03-27 10:34:43,303 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-gcp-dependencies/1.1.1.RELEASE/spring-cloud-gcp-dependencies-1.1.1.RELEASE.pom
+2019-03-27 10:34:43,353 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-gcp-dependencies/1.1.1.RELEASE/spring-cloud-gcp-dependencies-1.1.1.RELEASE.pom
+2019-03-27 10:34:43,402 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2019-03-27 10:34:43,493 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2019-03-27 10:34:43,541 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2019-03-27 10:34:43,820 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2019-03-27 10:34:43,873 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/boot/spring-boot-dependencies/2.1.3.RELEASE/spring-boot-dependencies-2.1.3.RELEASE.pom
+2019-03-27 10:34:43,967 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/boot/spring-boot-dependencies/2.1.3.RELEASE/spring-boot-dependencies-2.1.3.RELEASE.pom
+2019-03-27 10:34:44,093 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/netty/netty-bom/4.1.33.Final/netty-bom-4.1.33.Final.pom
+2019-03-27 10:34:44,176 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/netty/netty-bom/4.1.33.Final/netty-bom-4.1.33.Final.pom
+2019-03-27 10:34:44,243 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/apache/logging/log4j/log4j-bom/2.11.2/log4j-bom-2.11.2.pom
+2019-03-27 10:34:44,303 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/apache/logging/log4j/log4j-bom/2.11.2/log4j-bom-2.11.2.pom
+2019-03-27 10:34:44,348 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom
+2019-03-27 10:34:44,398 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom
+2019-03-27 10:34:44,573 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/integration/spring-integration-bom/5.1.3.RELEASE/spring-integration-bom-5.1.3.RELEASE.pom
+2019-03-27 10:34:44,616 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/integration/spring-integration-bom/5.1.3.RELEASE/spring-integration-bom-5.1.3.RELEASE.pom
+2019-03-27 10:34:44,978 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/security/spring-security-bom/5.1.4.RELEASE/spring-security-bom-5.1.4.RELEASE.pom
+2019-03-27 10:34:45,026 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/security/spring-security-bom/5.1.4.RELEASE/spring-security-bom-5.1.4.RELEASE.pom
+2019-03-27 10:34:45,070 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/session/spring-session-bom/Bean-SR3/spring-session-bom-Bean-SR3.pom
+2019-03-27 10:34:45,117 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/session/spring-session-bom/Bean-SR3/spring-session-bom-Bean-SR3.pom
+2019-03-27 10:34:45,189 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,241 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,292 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix/2.1.1.RELEASE/spring-cloud-starter-netflix-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,350 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix/2.1.1.RELEASE/spring-cloud-starter-netflix-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,406 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix/2.1.1.RELEASE/spring-cloud-netflix-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,497 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix/2.1.1.RELEASE/spring-cloud-netflix-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,544 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-build/2.1.3.RELEASE/spring-cloud-build-2.1.3.RELEASE.pom
+2019-03-27 10:34:45,601 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-build/2.1.3.RELEASE/spring-cloud-build-2.1.3.RELEASE.pom
+2019-03-27 10:34:45,665 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-build-dependencies/2.1.3.RELEASE/spring-cloud-build-dependencies-2.1.3.RELEASE.pom
+2019-03-27 10:34:45,707 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-build-dependencies/2.1.3.RELEASE/spring-cloud-build-dependencies-2.1.3.RELEASE.pom
+2019-03-27 10:34:45,763 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,811 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,857 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons-parent/2.1.1.RELEASE/spring-cloud-commons-parent-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,900 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons-parent/2.1.1.RELEASE/spring-cloud-commons-parent-2.1.1.RELEASE.pom
+2019-03-27 10:34:45,949 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.pom
+2019-03-27 10:34:46,009 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.pom
+2019-03-27 10:34:46,085 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.pom
+2019-03-27 10:34:46,266 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.pom
+2019-03-27 10:34:46,439 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.pom
+2019-03-27 10:34:46,501 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.pom
+2019-03-27 10:34:46,610 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.pom
+2019-03-27 10:34:46,659 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.pom
+2019-03-27 10:34:46,911 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/servo/servo-core/0.5.3/servo-core-0.5.3.pom
+2019-03-27 10:34:46,952 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/servo/servo-core/0.5.3/servo-core-0.5.3.pom
+2019-03-27 10:34:46,995 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/archaius/archaius-core/0.3.3/archaius-core-0.3.3.pom
+2019-03-27 10:34:47,048 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/archaius/archaius-core/0.3.3/archaius-core-0.3.3.pom
+2019-03-27 10:34:47,569 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.pom
+2019-03-27 10:34:47,618 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.pom
+2019-03-27 10:34:47,664 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.pom
+2019-03-27 10:34:47,724 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.pom
+2019-03-27 10:34:47,779 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.pom
+2019-03-27 10:34:47,822 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.pom
+2019-03-27 10:34:47,883 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.pom
+2019-03-27 10:34:47,927 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.pom
+2019-03-27 10:34:48,077 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/google/code/findbugs/annotations/2.0.0/annotations-2.0.0.pom
+2019-03-27 10:34:48,119 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/google/code/findbugs/annotations/2.0.0/annotations-2.0.0.pom
+2019-03-27 10:34:48,310 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1.pom
+2019-03-27 10:34:48,351 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/servo/servo-core/0.10.1/servo-core-0.10.1.pom
+2019-03-27 10:34:48,414 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/servo/servo-internal/0.10.1/servo-internal-0.10.1.pom
+2019-03-27 10:34:48,458 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/servo/servo-internal/0.10.1/servo-internal-0.10.1.pom
+2019-03-27 10:34:48,503 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1.pom
+2019-03-27 10:34:48,548 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1.pom
+2019-03-27 10:34:48,621 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/servo/servo-core/0.7.5/servo-core-0.7.5.pom
+2019-03-27 10:34:48,664 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/servo/servo-core/0.7.5/servo-core-0.7.5.pom
+2019-03-27 10:34:48,711 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/hystrix/hystrix-core/1.4.3/hystrix-core-1.4.3.pom
+2019-03-27 10:34:48,751 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/hystrix/hystrix-core/1.4.3/hystrix-core-1.4.3.pom
+2019-03-27 10:34:48,798 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/archaius/archaius-core/0.4.1/archaius-core-0.4.1.pom
+2019-03-27 10:34:48,838 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/archaius/archaius-core/0.4.1/archaius-core-0.4.1.pom
+2019-03-27 10:34:49,108 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/eureka/eureka-client/1.7.2/eureka-client-1.7.2.pom
+2019-03-27 10:34:49,151 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/eureka/eureka-client/1.7.2/eureka-client-1.7.2.pom
+2019-03-27 10:34:49,199 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.pom
+2019-03-27 10:34:49,302 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.pom
+2019-03-27 10:34:49,358 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/thoughtworks/xstream/xstream-parent/1.4.9/xstream-parent-1.4.9.pom
+2019-03-27 10:34:49,432 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/thoughtworks/xstream/xstream-parent/1.4.9/xstream-parent-1.4.9.pom
+2019-03-27 10:34:49,585 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/archaius/archaius-core/0.7.5/archaius-core-0.7.5.pom
+2019-03-27 10:34:49,753 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/archaius/archaius-core/0.7.5/archaius-core-0.7.5.pom
+2019-03-27 10:34:49,868 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-cloudfoundry-connector/2.1.1.RELEASE/spring-cloud-services-cloudfoundry-connector-2.1.1.RELEASE.pom
+2019-03-27 10:34:49,953 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-cloudfoundry-connector/2.1.1.RELEASE/spring-cloud-services-cloudfoundry-connector-2.1.1.RELEASE.pom
+2019-03-27 10:34:50,029 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-connector-core/2.1.1.RELEASE/spring-cloud-services-connector-core-2.1.1.RELEASE.pom
+2019-03-27 10:34:50,072 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-connector-core/2.1.1.RELEASE/spring-cloud-services-connector-core-2.1.1.RELEASE.pom
+2019-03-27 10:34:50,228 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-spring-connector/2.1.1.RELEASE/spring-cloud-services-spring-connector-2.1.1.RELEASE.pom
+2019-03-27 10:34:50,638 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-spring-connector/2.1.1.RELEASE/spring-cloud-services-spring-connector-2.1.1.RELEASE.pom
+2019-03-27 10:34:51,032 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.pom
+2019-03-27 10:34:51,071 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.pom
+2019-03-27 10:34:51,111 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/security/oauth/spring-security-oauth-parent/2.3.5.RELEASE/spring-security-oauth-parent-2.3.5.RELEASE.pom
+2019-03-27 10:34:51,162 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/security/oauth/spring-security-oauth-parent/2.3.5.RELEASE/spring-security-oauth-parent-2.3.5.RELEASE.pom
+2019-03-27 10:34:51,427 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE.jar
+2019-03-27 10:34:51,478 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE.jar
+2019-03-27 10:34:51,569 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.jar
+2019-03-27 10:34:51,643 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.jar
+2019-03-27 10:34:51,679 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.jar
+2019-03-27 10:34:51,729 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.jar
+2019-03-27 10:34:51,762 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.jar
+2019-03-27 10:34:51,948 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.jar
+2019-03-27 10:34:51,985 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.jar
+2019-03-27 10:34:52,238 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.jar
+2019-03-27 10:34:52,283 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.jar
+2019-03-27 10:34:52,444 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.jar
+2019-03-27 10:34:52,481 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.jar
+2019-03-27 10:34:52,666 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.jar
+2019-03-27 10:34:52,764 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.jar
+2019-03-27 10:34:52,813 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.jar
+2019-03-27 10:34:52,851 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.jar
+2019-03-27 10:34:53,041 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.jar
+2019-03-27 10:34:53,075 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.jar
+2019-03-27 10:34:53,173 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.jar
+2019-03-27 10:34:53,211 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.jar
+2019-03-27 10:34:53,259 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.jar
+2019-03-27 10:34:53,436 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/hystrix/hystrix-core/1.4.3/hystrix-core-1.4.3.jar
+2019-03-27 10:34:53,906 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/hystrix/hystrix-core/1.4.3/hystrix-core-1.4.3.jar
+2019-03-27 10:34:54,012 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1.jar
+2019-03-27 10:34:54,081 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1.jar
+2019-03-27 10:34:54,213 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-cloudfoundry-connector/2.1.1.RELEASE/spring-cloud-services-cloudfoundry-connector-2.1.1.RELEASE.jar
+2019-03-27 10:34:54,282 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-cloudfoundry-connector/2.1.1.RELEASE/spring-cloud-services-cloudfoundry-connector-2.1.1.RELEASE.jar
+2019-03-27 10:34:54,347 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-connector-core/2.1.1.RELEASE/spring-cloud-services-connector-core-2.1.1.RELEASE.jar
+2019-03-27 10:34:54,411 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-connector-core/2.1.1.RELEASE/spring-cloud-services-connector-core-2.1.1.RELEASE.jar
+2019-03-27 10:34:54,470 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-spring-connector/2.1.1.RELEASE/spring-cloud-services-spring-connector-2.1.1.RELEASE.jar
+2019-03-27 10:34:54,716 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-spring-connector/2.1.1.RELEASE/spring-cloud-services-spring-connector-2.1.1.RELEASE.jar
+2019-03-27 10:34:54,813 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.jar
+2019-03-27 10:34:55,036 [Worker-166: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE.jar
+2019-03-27 10:34:58,045 [Worker-166: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-author-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-author-service\pom.xml.
+2019-03-27 10:35:00,986 [Worker-166: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-book-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-book-service\pom.xml.
+2019-03-27 10:35:01,825 [Worker-166: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-discovery-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-discovery-service\pom.xml.
+2019-03-27 10:35:30,690 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE-sources.jar
+2019-03-27 10:35:30,844 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE-sources.jar
+2019-03-27 10:35:30,859 [Worker-164: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry:2.1.2.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry:jar:sources:2.1.2.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-03-27 10:35:31,373 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:31,440 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:31,545 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.1.1.RELEASE
+2019-03-27 10:35:31,581 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:31,641 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:31,715 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter:2.1.1.RELEASE
+2019-03-27 10:35:31,807 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:31,897 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:31,965 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-context:2.1.1.RELEASE
+2019-03-27 10:35:32,040 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:32,131 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:32,205 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-commons:2.1.1.RELEASE
+2019-03-27 10:35:32,282 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:32,378 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:32,386 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:32,387 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:32,393 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:32,393 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:32,416 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:32,495 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-hystrix:2.1.1.RELEASE
+2019-03-27 10:35:32,561 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:32,629 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:32,730 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-client:2.1.1.RELEASE
+2019-03-27 10:35:32,826 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:32,889 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:32,979 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-archaius:2.1.1.RELEASE
+2019-03-27 10:35:33,116 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:33,191 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:33,327 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-ribbon:2.1.1.RELEASE
+2019-03-27 10:35:33,361 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:33,447 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:33,473 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:33,480 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:33,480 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:33,482 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:33,483 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:33,542 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-archaius:2.1.1.RELEASE
+2019-03-27 10:35:33,611 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:33,684 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:34,176 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.1.1.RELEASE
+2019-03-27 10:35:34,295 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/hystrix/hystrix-core/1.4.3/hystrix-core-1.4.3-sources.jar
+2019-03-27 10:35:34,415 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/hystrix/hystrix-core/1.4.3/hystrix-core-1.4.3-sources.jar
+2019-03-27 10:35:34,513 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.hystrix:hystrix-core:1.4.3
+2019-03-27 10:35:34,576 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1-sources.jar
+2019-03-27 10:35:34,611 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:34,612 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 10:35:34,629 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:34,630 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:34,635 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:34,636 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/com/netflix/netflix-commons/netflix-commons-util/0.1.1/netflix-commons-util-0.1.1-sources.jar
+2019-03-27 10:35:35,178 [Worker-164: Download sources and javadoc] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2019-03-27 10:35:35,188 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-commons-util:0.1.1
+2019-03-27 10:35:35,243 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-cloudfoundry-connector/2.1.1.RELEASE/spring-cloud-services-cloudfoundry-connector-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:35,305 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-cloudfoundry-connector/2.1.1.RELEASE/spring-cloud-services-cloudfoundry-connector-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:35,384 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.pivotal.spring.cloud:spring-cloud-services-cloudfoundry-connector:2.1.1.RELEASE
+2019-03-27 10:35:35,488 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-connector-core/2.1.1.RELEASE/spring-cloud-services-connector-core-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:35,568 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-connector-core/2.1.1.RELEASE/spring-cloud-services-connector-core-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:35,655 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.pivotal.spring.cloud:spring-cloud-services-connector-core:2.1.1.RELEASE
+2019-03-27 10:35:35,667 [Worker-168: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-27 10:35:35,735 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-spring-connector/2.1.1.RELEASE/spring-cloud-services-spring-connector-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:35,913 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-spring-connector/2.1.1.RELEASE/spring-cloud-services-spring-connector-2.1.1.RELEASE-sources.jar
+2019-03-27 10:35:35,990 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.pivotal.spring.cloud:spring-cloud-services-spring-connector:2.1.1.RELEASE
+2019-03-27 10:35:36,077 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar
+2019-03-27 10:35:36,258 [Worker-164: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/security/oauth/spring-security-oauth2/2.3.5.RELEASE/spring-security-oauth2-2.3.5.RELEASE-sources.jar
+2019-03-27 10:35:36,356 [Worker-164: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security.oauth:spring-security-oauth2:2.3.5.RELEASE
+2019-03-27 10:35:36,805 [Worker-168: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.0.2.RELEASE/spring-cloud-starter-netflix-eureka-client-2.0.2.RELEASE.pom
+2019-03-27 10:35:36,851 [Worker-168: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.0.2.RELEASE/spring-cloud-starter-netflix-eureka-client-2.0.2.RELEASE.pom
+2019-03-27 10:35:37,077 [Worker-168: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.0.2.RELEASE/spring-cloud-starter-netflix-eureka-client-2.0.2.RELEASE.jar
+2019-03-27 10:35:37,178 [Worker-168: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.0.2.RELEASE/spring-cloud-starter-netflix-eureka-client-2.0.2.RELEASE.jar
+2019-03-27 10:35:42,622 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:42,627 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 10:35:42,640 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:42,646 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:42,646 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:44,312 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:44,312 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 10:35:44,326 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:44,339 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:44,358 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:46,843 [Worker-167: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE-javadoc.jar
+2019-03-27 10:35:46,966 [Worker-167: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE-javadoc.jar
+2019-03-27 10:35:46,986 [Worker-167: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry:2.1.2.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry:jar:javadoc:2.1.2.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-03-27 10:35:47,074 [Worker-167: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.0.2.RELEASE/spring-cloud-starter-netflix-eureka-client-2.0.2.RELEASE-sources.jar
+2019-03-27 10:35:47,123 [Worker-167: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.0.2.RELEASE/spring-cloud-starter-netflix-eureka-client-2.0.2.RELEASE-sources.jar
+2019-03-27 10:35:47,533 [Worker-167: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.0.2.RELEASE
+2019-03-27 10:35:47,541 [Worker-167: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.0.2.RELEASE
+2019-03-27 10:35:48,159 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:48,159 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:48,169 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:35:48,171 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:35:48,178 [Worker-160: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:36:34,017 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-27 10:36:34,133 [Worker-167: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-27 10:36:34,137 [Worker-167: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-27 10:44:35,184 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:44:35,184 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:44:35,191 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:44:35,203 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:44:35,208 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:56:06,380 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:56:06,380 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 10:56:06,388 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:56:06,394 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:56:06,394 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:56:13,721 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-27 10:56:13,815 [Worker-165: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-27 10:56:13,816 [Worker-165: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-27 11:03:13,690 [Worker-170: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-author-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-author-service\pom.xml.
+2019-03-27 11:03:20,224 [Worker-168: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE-sources.jar
+2019-03-27 11:03:20,243 [Worker-168: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry:2.1.2.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry:jar:sources:2.1.2.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-03-27 11:03:22,057 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:03:22,057 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:22,069 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:22,071 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:03:22,083 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:23,482 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:03:23,493 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 11:03:23,514 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:23,525 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:03:23,526 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:39,727 [Worker-172: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-author-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-author-service\pom.xml.
+2019-03-27 11:03:40,581 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:03:40,582 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:40,582 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:40,583 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:03:40,583 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:42,353 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:03:42,354 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 11:03:42,364 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:42,366 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:03:42,374 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:03:44,801 [Worker-172: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/io/pivotal/spring/cloud/spring-cloud-services-starter-service-registry/2.1.2.RELEASE/spring-cloud-services-starter-service-registry-2.1.2.RELEASE-javadoc.jar
+2019-03-27 11:03:44,851 [Worker-172: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry:2.1.2.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact io.pivotal.spring.cloud:spring-cloud-services-starter-service-registry:jar:javadoc:2.1.2.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.10.0.20181127-2120.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.200.v20180912-1356.jar:na]
+2019-03-27 11:03:53,198 [Worker-173: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-book-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-book-service\pom.xml.
+2019-03-27 11:04:04,114 [Worker-173: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:04,122 [Worker-173: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:04,130 [Worker-173: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:04,132 [Worker-173: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:04,138 [Worker-173: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:06,795 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:06,800 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 11:04:06,821 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:06,827 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:06,828 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:11,002 [Worker-165: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-book-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-book-service\pom.xml.
+2019-03-27 11:04:15,928 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.2.RELEASE/spring-cloud-starter-openfeign-2.0.2.RELEASE.pom
+2019-03-27 11:04:16,180 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.2.RELEASE/spring-cloud-starter-openfeign-2.0.2.RELEASE.pom
+2019-03-27 11:04:16,289 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-openfeign/2.0.2.RELEASE/spring-cloud-openfeign-2.0.2.RELEASE.pom
+2019-03-27 11:04:16,563 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-openfeign/2.0.2.RELEASE/spring-cloud-openfeign-2.0.2.RELEASE.pom
+2019-03-27 11:04:16,707 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/spring-cloud-openfeign-core-2.0.2.RELEASE.pom
+2019-03-27 11:04:16,831 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/spring-cloud-openfeign-core-2.0.2.RELEASE.pom
+2019-03-27 11:04:17,731 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.2.RELEASE/spring-cloud-starter-openfeign-2.0.2.RELEASE.jar
+2019-03-27 11:04:17,854 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.2.RELEASE/spring-cloud-starter-openfeign-2.0.2.RELEASE.jar
+2019-03-27 11:04:17,937 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/spring-cloud-openfeign-core-2.0.2.RELEASE.jar
+2019-03-27 11:04:18,460 [Worker-165: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/spring-cloud-openfeign-core-2.0.2.RELEASE.jar
+2019-03-27 11:04:20,924 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:20,932 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:20,940 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:20,949 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:20,950 [Worker-165: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:22,354 [Worker-169: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:22,355 [Worker-169: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 11:04:22,359 [Worker-169: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:22,361 [Worker-169: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:22,362 [Worker-169: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:23,027 [Worker-172: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.2.RELEASE/spring-cloud-starter-openfeign-2.0.2.RELEASE-sources.jar
+2019-03-27 11:04:23,520 [Worker-172: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.2.RELEASE/spring-cloud-starter-openfeign-2.0.2.RELEASE-sources.jar
+2019-03-27 11:04:23,622 [Worker-172: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-openfeign:2.0.2.RELEASE
+2019-03-27 11:04:23,946 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-27 11:04:23,976 [Worker-172: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar
+2019-03-27 11:04:24,089 [Worker-171: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-book-service
+2019-03-27 11:04:24,089 [Worker-171: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-27 11:04:24,703 [Worker-172: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/cloud/spring-cloud-openfeign-core/2.0.2.RELEASE/spring-cloud-openfeign-core-2.0.2.RELEASE-sources.jar
+2019-03-27 11:04:24,775 [Worker-172: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-openfeign-core:2.0.2.RELEASE
+2019-03-27 11:04:25,598 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:25,598 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:25,603 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:25,611 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 11:04:25,618 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 11:04:43,656 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-27 11:04:43,785 [Worker-171: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-author-service
+2019-03-27 11:04:43,791 [Worker-171: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 09:07:55,515 [Worker-202: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-28 09:08:19,345 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:08:19,357 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:08:19,364 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:08:19,370 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:08:19,371 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:13:15,647 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:13:15,648 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:13:15,648 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:13:15,649 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:13:15,653 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:18:31,131 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:18:31,135 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:18:31,141 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:18:31,145 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:18:31,145 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:18:55,312 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 09:18:55,411 [Worker-202: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-book-service
+2019-03-28 09:18:55,414 [Worker-202: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 09:26:01,234 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:26:01,243 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:26:01,255 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:26:01,260 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:26:01,261 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:26:02,587 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:26:02,588 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:26:02,594 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:26:02,600 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:26:02,604 [Worker-202: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:28:42,166 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:28:42,171 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:28:42,177 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:28:42,183 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:28:42,183 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:30:30,898 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:30:30,898 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:30:30,900 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:30:30,902 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:30:30,903 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:30:31,975 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:30:31,975 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:30:31,983 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:30:31,989 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:30:31,989 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:33:30,805 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:33:30,805 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:33:30,812 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:33:30,816 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:33:30,820 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:33:35,071 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:33:35,075 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:33:35,080 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:33:35,084 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:33:35,084 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:33:53,579 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:33:53,580 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:33:53,583 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:33:53,584 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:33:53,589 [Worker-211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:34:04,819 [Worker-212: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:34:04,823 [Worker-212: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:34:04,829 [Worker-212: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:34:04,834 [Worker-212: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:34:04,834 [Worker-212: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:34:14,351 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 09:34:14,447 [Worker-197: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-book-service
+2019-03-28 09:34:14,451 [Worker-197: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 09:36:58,060 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:36:58,064 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:36:58,073 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:36:58,077 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:36:58,078 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:37:25,362 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 09:37:25,476 [Worker-208: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-book-service
+2019-03-28 09:37:25,480 [Worker-208: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 09:40:16,492 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:40:16,496 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:40:16,506 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:40:16,511 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:40:16,512 [Worker-209: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:40:19,779 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:40:19,779 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:40:19,787 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:40:19,791 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:40:19,796 [Worker-197: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:40:36,458 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:40:36,462 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 09:40:36,468 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:40:36,473 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 09:40:36,474 [Worker-210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 09:40:43,906 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 09:40:44,005 [Worker-212: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-author-service
+2019-03-28 09:40:44,005 [Worker-212: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 13:51:11,834 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:51:11,835 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:51:11,837 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:51:11,838 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:51:11,838 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:54:50,607 [Worker-228: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-28 13:54:52,175 [Worker-228: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.pom
+2019-03-28 13:54:52,267 [Worker-228: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.pom
+2019-03-28 13:54:52,507 [Worker-228: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.jar
+2019-03-28 13:54:52,771 [Worker-228: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE.jar
+2019-03-28 13:54:55,140 [Worker-222: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-milestone/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE-sources.jar
+2019-03-28 13:54:55,431 [Worker-222: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone/org/springframework/security/spring-security-core/5.1.4.RELEASE/spring-security-core-5.1.4.RELEASE-sources.jar
+2019-03-28 13:54:55,517 [Worker-222: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.1.4.RELEASE
+2019-03-28 13:55:05,603 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:05,603 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:05,607 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:05,611 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:05,615 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:08,310 [Worker-233: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-28 13:55:08,981 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:08,982 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:55:08,991 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:08,996 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:08,999 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:10,838 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:10,842 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:55:10,847 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:10,851 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:10,852 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:33,338 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:33,340 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:55:33,340 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:33,342 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:33,342 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:43,761 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:43,762 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:55:43,764 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:55:43,768 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:55:43,768 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:56:29,262 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:56:29,263 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:56:29,270 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:56:29,276 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:56:29,280 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:56:44,005 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:56:44,012 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:56:44,020 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:56:44,029 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:56:44,029 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:57:00,995 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:57:00,996 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:57:00,997 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:57:00,998 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:57:01,002 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:57:02,096 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:57:02,101 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:57:02,107 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:57:02,111 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:57:02,111 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:59:14,656 [Worker-231: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-28 13:59:15,394 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:59:15,398 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:59:15,403 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:59:15,407 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:59:15,407 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:59:17,267 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:59:17,268 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 13:59:17,270 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 13:59:17,271 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 13:59:17,274 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:01:05,530 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:01:05,534 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:01:05,539 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:01:05,543 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:01:05,543 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:05:20,202 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:05:20,202 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:05:20,208 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:05:20,212 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:05:20,216 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:05:32,385 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 14:05:32,440 [Worker-233: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-28 14:05:32,445 [Worker-233: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 14:17:15,295 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:17:15,296 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:17:15,307 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:17:15,312 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:17:15,316 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:17:20,208 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 14:17:20,368 [Worker-229: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-28 14:17:20,372 [Worker-229: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 14:21:12,023 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:21:12,024 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:21:12,033 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:21:12,039 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:21:12,046 [Worker-223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:22:55,644 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:22:55,648 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:22:55,653 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:22:55,658 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:22:55,658 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:23:12,179 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:23:12,179 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:23:12,181 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:23:12,182 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:23:12,182 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:23:16,215 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:23:16,215 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:23:16,217 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:23:16,223 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:23:16,223 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:24:38,438 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 14:24:38,557 [Worker-231: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-28 14:24:38,561 [Worker-231: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 14:29:00,436 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:29:00,444 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:29:00,451 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:29:00,456 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:29:00,456 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:29:11,643 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 14:29:11,749 [Worker-233: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-28 14:29:11,753 [Worker-233: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 14:32:17,935 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:32:17,940 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:32:17,948 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:32:17,953 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:32:17,953 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:32:32,202 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:32:32,202 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:32:32,208 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:32:32,213 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:32:32,217 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:32:57,209 [Worker-232: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-author-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-author-service\pom.xml.
+2019-03-28 14:32:59,461 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:32:59,464 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:32:59,468 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:32:59,469 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:32:59,475 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:33:01,744 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:33:01,745 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:33:01,755 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:33:01,764 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:33:01,770 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:33:14,028 [Worker-233: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-28 14:33:14,277 [Worker-233: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-author-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-author-service\pom.xml.
+2019-03-28 14:33:15,018 [Worker-233: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pcf-author-service/src/main/java
+2019-03-28 14:33:15,022 [Worker-233: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pcf-author-service/src/main/resources
+2019-03-28 14:33:15,026 [Worker-233: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pcf-author-service/src/main/resources
+2019-03-28 14:33:15,026 [Worker-233: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pcf-author-service/src/test/java
+2019-03-28 14:33:15,030 [Worker-233: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pcf-author-service/src/test/resources
+2019-03-28 14:33:17,692 [Worker-233: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-03-28 14:33:17,935 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:33:17,935 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:33:17,941 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:33:17,945 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:33:17,948 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:34:25,036 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:34:25,040 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:34:25,049 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:34:25,053 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:34:25,053 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:34:26,146 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:34:26,146 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:34:26,149 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:34:26,151 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:34:26,154 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:35:00,553 [Worker-232: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-book-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-book-service\pom.xml.
+2019-03-28 14:35:03,395 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:35:03,399 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:35:03,402 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:35:03,403 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:35:03,406 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:35:05,448 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:35:05,452 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:35:05,461 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:35:05,465 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:35:05,466 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:35:23,938 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:35:23,939 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:35:23,941 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:35:23,942 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:35:23,945 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:35:29,884 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 14:35:30,005 [Worker-231: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-book-service
+2019-03-28 14:35:30,008 [Worker-231: Launching pcf-book-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 14:42:04,427 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:42:04,427 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:42:04,436 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:42:04,441 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:42:04,445 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:42:41,862 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:42:41,862 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:42:41,865 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:42:41,872 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:42:41,877 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:42:47,232 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:42:47,232 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:42:47,237 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:42:47,241 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:42:47,245 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:43:08,991 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:43:08,995 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 14:43:09,002 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:43:09,009 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 14:43:09,009 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 14:43:22,945 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 14:43:23,056 [Worker-228: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-28 14:43:23,056 [Worker-228: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 14:43:55,150 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 14:43:55,312 [Worker-233: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-author-service
+2019-03-28 14:43:55,312 [Worker-233: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 14:44:02,900 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-03-28 14:44:07,129 [Worker-229: Launching pcf-book-service (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-book-service
+2019-03-28 14:44:07,134 [Worker-229: Launching pcf-book-service (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:00:05,648 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:00:05,649 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:00:05,660 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:00:05,665 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:00:05,665 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:01:12,324 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 15:01:12,550 [Worker-229: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-author-service
+2019-03-28 15:01:12,555 [Worker-229: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:05:33,448 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:05:33,452 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:05:33,459 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:05:33,466 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:05:33,466 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:05:35,604 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:05:35,605 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:05:35,610 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:05:35,615 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:05:35,619 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:06:00,643 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 15:06:00,777 [Worker-234: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-author-service
+2019-03-28 15:06:00,781 [Worker-234: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:09:10,178 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:09:10,179 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:09:10,189 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:09:10,195 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:09:10,199 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:09:17,460 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:09:17,465 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:09:17,471 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:09:17,476 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:09:17,476 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:09:42,841 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 15:09:42,961 [Worker-235: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-28 15:09:42,961 [Worker-235: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:20:39,325 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:20:39,326 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:20:39,328 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:20:39,329 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:20:39,329 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:21:23,443 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:21:23,443 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:21:23,449 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:21:23,455 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:21:23,459 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:21:29,899 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 15:21:30,005 [Worker-231: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-author-service
+2019-03-28 15:21:30,005 [Worker-231: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:28:40,504 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:28:40,510 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:28:40,516 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:28:40,517 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:28:40,521 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:28:52,961 [Worker-229: Launching pcf-author-service - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:28:52,961 [Worker-229: Launching pcf-author-service - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:28:52,964 [Worker-229: Launching pcf-author-service - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:28:52,971 [Worker-229: Launching pcf-author-service - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:28:52,975 [Worker-229: Launching pcf-author-service - Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:29:20,616 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:29:20,616 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:29:20,627 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:29:20,635 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:29:20,641 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:29:34,072 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:29:34,076 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:29:34,082 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:29:34,087 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:29:34,087 [Worker-222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:29:40,936 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:29:40,937 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:29:40,939 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:29:40,940 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:29:40,944 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:30:11,969 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:30:11,974 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:30:11,980 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:30:11,984 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:30:11,984 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:30:20,796 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:30:20,796 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:30:20,803 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:30:20,807 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:30:20,812 [Worker-235: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:31:25,480 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:31:25,484 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:31:25,488 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:31:25,495 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:31:25,495 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:31:59,386 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:31:59,387 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:31:59,389 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:31:59,390 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:31:59,390 [Worker-237: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:32:09,434 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:32:09,435 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:32:09,437 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:32:09,442 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:32:09,442 [Worker-232: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:34:25,497 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:34:25,497 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:34:25,504 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:34:25,509 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:34:25,512 [Worker-228: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:34:33,258 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:34:33,262 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:34:33,269 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:34:33,274 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:34:33,275 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:34:37,209 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:34:37,210 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:34:37,212 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:34:37,213 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:34:37,216 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:36:07,992 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:36:07,996 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:36:08,004 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:36:08,008 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:36:08,008 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:36:11,206 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:36:11,207 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:36:11,214 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:36:11,220 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:36:11,224 [Worker-234: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:40:39,379 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:40:39,387 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:40:39,395 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:40:39,400 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:40:39,401 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:13,156 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:41:13,156 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:41:13,160 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:13,161 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:41:13,161 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:13,250 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:41:13,250 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:41:13,256 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:13,261 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:41:13,261 [Worker-230: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:14,741 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:41:14,742 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:41:14,749 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:14,756 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:41:14,759 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:14,774 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:41:14,779 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:41:14,782 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:14,783 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:41:14,784 [Worker-231: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:41:26,996 [Worker-233: Launching pcf-book-service (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-book-service
+2019-03-28 15:41:26,996 [Worker-233: Launching pcf-book-service (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:41:32,970 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 15:41:32,983 [Worker-222: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-gateway-service
+2019-03-28 15:41:32,987 [Worker-222: Launching pcf-gateway-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:41:37,832 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 15:41:37,863 [Worker-229: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-author-service
+2019-03-28 15:41:37,869 [Worker-229: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:45:08,214 [Worker-239: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:45:08,215 [Worker-239: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:45:08,217 [Worker-239: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:45:08,218 [Worker-239: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:45:08,222 [Worker-239: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:45:11,439 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:45:11,444 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 15:45:11,450 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:45:11,457 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:45:11,457 [Worker-233: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:45:15,388 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-28 15:45:15,785 [Worker-233: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mitch\Documents\pcf\pcf-author-service
+2019-03-28 15:45:15,789 [Worker-233: Launching pcf-author-service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean package
+2019-03-28 15:58:54,542 [Worker-238: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.revature.pcf:pcf-gateway-service:0.0.1-SNAPSHOT @ C:\Users\mitch\Documents\pcf\pcf-gateway-service\pom.xml.
+2019-03-28 15:58:58,313 [Worker-238: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:58:58,317 [Worker-238: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:58:58,321 [Worker-238: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 15:58:58,322 [Worker-238: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 15:58:58,327 [Worker-238: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 16:05:58,585 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:05:58,590 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 16:05:58,597 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 16:05:58,601 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:05:58,602 [Worker-240: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 16:05:59,621 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:05:59,621 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-28 16:05:59,623 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-28 16:05:59,624 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:05:59,627 [Worker-229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

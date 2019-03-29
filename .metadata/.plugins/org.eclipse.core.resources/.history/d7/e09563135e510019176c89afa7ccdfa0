@@ -1,0 +1,18 @@
+package com.revature.cloud;
+
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cloud.config.java.AbstractCloudConfig;
+import org.springframework.context.annotation.Bean;
+
+public class CloudConfig extends AbstractCloudConfig {
+
+	@Value("VCAP_SERVICES.elephantsql[0].instance_name")
+	public String pgInstanceName;
+	
+	@Bean
+	public DataSource postgresDataSource() {
+		connectionFactory().dataSource()
+	}
+}
